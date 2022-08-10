@@ -1,18 +1,29 @@
 # awesome-crypto-devtools
-running list of helpful sites bc google is bad at surfacing crypto related tools
 
-## dev tooling
+List of helpful dev tools (alphabetically ordered)
 
-### EVM
+
+
+## EVM
+
+### Log parsing and monitoring
 - [EthTx Transaction Decoder](https://ethtx.info/)
+- [Ethereum Signature Database](https://www.4byte.directory/)
+- [Ethereum Signature Database samsun](https://www.4byte.directory/)
 - [Tenderly](https://tenderly.co)
 
-### Code Search 
+### Code search and visualization  
+- [Deth](https://github.com/dethcrypto) 
 - [Source Graph](https://sourcegraph.com/search)
 
-## Analytics
-
-### EVM
+### Analytics
+- [Covalent](https://www.covalenthq.com/)
 - [Dune](https://dune.xyz/)
 - [Nansen](https://www.nansen.ai/)
 - [Token Flow](https://tokenflow.live/)
+
+## Cosmos
+
+## Solana
+
+## Move
