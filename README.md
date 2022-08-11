@@ -2,8 +2,6 @@
 
 List of helpful dev tools (alphabetically ordered)
 
-
-
 ## EVM
 
 ### Log parsing and monitoring
@@ -14,6 +12,7 @@ List of helpful dev tools (alphabetically ordered)
 
 ### Code search and visualization  
 - [Deth](https://github.com/dethcrypto) 
+- [Slither](https://github.com/crytic/slither): static analysis framework
 - [Source Graph](https://sourcegraph.com/search)
 
 ### Analytics
@@ -27,3 +26,4 @@ List of helpful dev tools (alphabetically ordered)
 ## Solana
 
 ## Move
+- [awesome-move mysten labs](https://github.com/MystenLabs/awesome-move)
