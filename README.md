@@ -13,7 +13,9 @@ List of helpful dev tools (alphabetically ordered)
 ### Code search and visualization  
 - [Deth](https://github.com/dethcrypto) 
 - [Slither](https://github.com/crytic/slither): static analysis framework
-- [Source Graph](https://sourcegraph.com/search)
+- [Source Graph](https://sourcegraph.com/search): Code search
+- [Carbon](https://carbon.now.sh): Code snippet visualization 
+- [Ray](https://ray.so): Code snippet visualization 
 
 ### Analytics
 - [Covalent](https://www.covalenthq.com/)
