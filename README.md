@@ -16,6 +16,7 @@ List of helpful dev tools (alphabetically ordered)
 - [Source Graph](https://sourcegraph.com/search): Code search
 - [Carbon](https://carbon.now.sh): Code snippet visualization 
 - [Ray](https://ray.so): Code snippet visualization 
+- [Star History](https://star-history.com): Github star history charts
 
 ### Analytics
 - [Covalent](https://www.covalenthq.com/)
